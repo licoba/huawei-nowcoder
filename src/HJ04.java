@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 // HJ4 字符串分隔
-public class HJ4 {
+public class HJ04 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         while (sc.hasNext()) {

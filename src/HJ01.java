@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 // HJ1 字符串最后一个单词的长度
-public class HJ1 {
+public class HJ01 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         String str = sc.nextLine();

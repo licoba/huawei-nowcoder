@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.io.StreamTokenizer;
 
 // HJ8 合并表记录
-public class HJ8 {
+public class HJ08 {
     public static void main(String[] args) throws IOException {
         StreamTokenizer st = new StreamTokenizer(new BufferedReader(new InputStreamReader(System.in)));
         st.nextToken();  //分析下一个

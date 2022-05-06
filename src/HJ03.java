@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 //HJ3 明明的随机数
-public class HJ3 {
+public class HJ03 {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

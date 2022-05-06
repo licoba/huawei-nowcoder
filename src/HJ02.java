@@ -1,7 +1,7 @@
 import java.util.*;
 
 // HJ2 计算某字符出现次数
-public class HJ2 {
+public class HJ02 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         String all = "";

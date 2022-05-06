@@ -1,7 +1,7 @@
 import java.io.IOException;
 import java.io.InputStream;
 
-public class HJ9 {
+public class HJ09 {
     //HJ9 提取不重复的整数
     public static void main(String[] args) throws IOException {
         InputStream in = System.in;
